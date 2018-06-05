@@ -1,0 +1,26 @@
+5. Create a Python project of a Magic 8 Ball which is a toy used for fortune-telling or seeking advice.
+
+Allow the user to input their question.
+Show an in progress message.
+Create 10/20 responses, and show a random response.
+Allow the user to ask another question/advice or quit the game.
+
+
+For instance it would look like:
+
+
+Hello World, I am the Magic 8 Ball, What is your name?
+Sara
+hello Sara
+Ask me a question.
+Tell my fortune
+It is certain
+I hope that helped!
+Do you have another question? [Y/N] 
+Y
+Ask me a question.
+My favorite color
+My reply is no
+I hope that helped!
+Do you have another question? [Y/N] 
+N
